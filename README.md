@@ -7,4 +7,4 @@ Shape predictor 68 face landmarks .dat file is required.
 
 
 
-![](https://imgur.com/gallery/1MO9S)
+![](https://i.imgur.com/QENy3MK.png)
